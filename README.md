@@ -13,7 +13,7 @@ Neste curso foi abordado:
 # Layout do Projeto
 
 <h1>
-    <img width="965px" src="">
+    <img width="965px" src="https://media-exp1.licdn.com/dms/image/C4E22AQFbjukwXtrSCw/feedshare-shrink_1280/0/1646615723199?e=1649289600&v=beta&t=Df-e8LqcsXRTSk7k30eMggTpIHnqISTWZGbY5zobPxY">
 </h1>
 
 # Tecnologias utilizadas 
